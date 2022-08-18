@@ -1,0 +1,12 @@
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\bin\Debug\net6.0\ER2.deps.json
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\bin\Debug\net6.0\ER2.dll
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\bin\Debug\net6.0\ER2.pdb
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.csproj.AssemblyReference.cache
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.AssemblyInfoInputs.cache
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.AssemblyInfo.cs
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.csproj.CoreCompileInputs.cache
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.dll
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\refint\ER2.dll
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ER2.pdb
+C:\Users\t_lac\OneDrive\Documentos\Curso Full stack\BackEnd\UC_15_Testes\ER2\ER2\obj\Debug\net6.0\ref\ER2.dll
